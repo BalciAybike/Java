@@ -1,3 +1,5 @@
+package day01_variables;
+
 public class Variables01 {
 
         //Variable nasil olusturulur?
